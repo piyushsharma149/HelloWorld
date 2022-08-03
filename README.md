@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Setting up the Android Studio took a little long due to virtualization being turned off on my PC but apart from that, it was straight forward.
 
 ## License
 
